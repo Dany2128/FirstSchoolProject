@@ -1,0 +1,244 @@
+.header {
+  border: 3px solid;
+  overflow: auto;
+  background: linear-gradient(grey, white, grey, grey);
+  box-shadow: 0 1px 30px rgb(255, 255, 255);
+  border-radius: 30px;
+}
+.header img {
+  border: 3px solid;
+  margin: 30px;
+  box-shadow: 0 1px 30px rgb(3, 3, 3);
+  background-size: cover;
+  border-radius: 10px;
+  width: 25vw;
+  height: 15vw;
+  margin-bottom: 70px;
+}
+.side {
+  height: 100%;
+  width: 160px;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  background: linear-gradient(grey, white, grey, grey);
+  overflow-x: hidden;
+  padding: 15px;
+  border: 3px solid;
+  box-shadow: 0 1px 30px rgb(255, 255, 255);
+  border-radius: 30px;
+}
+.side a {
+  border: black 3px solid;
+  padding: 15px;
+  text-decoration: none;
+  font-size: 25px;
+  color: rgb(0, 0, 0);
+  display: block;
+  margin: 10px;
+  font-family: "Architects Daughter", cursive;
+  border-radius: 10px;
+}
+.side a:hover {
+  color: rgb(255, 255, 255);
+}
+header {
+  margin-left: 200px;
+  padding: 0px 0px;
+}
+h1 {
+  font-family: "Architects Daughter", cursive;
+  font-size: 30px;
+  margin-left: 100px;
+  color: rgb(0, 0, 0);
+  text-decoration: underline;
+}
+h3 {
+  font-family: "Architects Daughter", cursive;
+  margin-left: 80px;
+  color: rgb(0, 0, 0);
+  font-size: 20px;
+}
+p {
+  font-family: "Architects Daughter", cursive;
+  color: rgb(0, 0, 0);
+  font-size: 20px;
+  padding-right: 70px;
+  margin-top: 40px;
+}
+.mainer {
+  border: 3px solid;
+  overflow: auto;
+  margin: 5px;
+  background: linear-gradient(grey, white, grey, grey);
+  box-shadow: 0 1px 30px rgb(255, 255, 255);
+  border-radius: 30px;
+}
+main {
+  margin-left: 200px;
+}
+h4 {
+  font-family: "Architects Daughter", cursive;
+  float: center;
+  color: rgb(0, 0, 0);
+  margin-left: 30px;
+}
+ul {
+  font-family: "Architects Daughter", cursive;
+  margin-left: px;
+  color: rgb(5, 5, 5);
+  float: left;
+}
+.grit {
+  margin-left: 30px;
+  font-size: 25px;
+}
+footer {
+  margin-left: 200px;
+}
+.contact {
+  border: 3px solid;
+  overflow: auto;
+  padding: 20px;
+  margin: 5px;
+  background: linear-gradient(grey, white, grey, grey);
+  box-shadow: 0 1px 30px rgb(255, 255, 255);
+  border-radius: 30px;
+}
+.contact a {
+  font-size: 25px;
+  display: block;
+  float: left;
+  text-decoration: none;
+  padding: 25px;
+  color: rgb(0, 0, 0);
+  margin: 0px;
+  font-family: "Architects Daughter", cursive;
+}
+.contact a:hover {
+  color: rgb(218, 203, 5);
+}
+#ommig {
+  background-color: rgb(0, 55, 107);
+}
+.about2 img {
+  border: rgb(0, 0, 0) px solid;
+  border-radius: 50px;
+  height: 500px;
+  margin: 30px;
+  box-shadow: 0 1px 30px rgb(3, 3, 3);
+  float: left;
+}
+.ul {
+  margin: 50px;
+  padding-right: 300px;
+  font-size: x-large;
+  resize: none;
+  width: 30vw;
+  height: 20vw;
+}
+
+.medal {
+  font-size: 25px;
+  margin: 10px;
+  float: left;
+  text-shadow: rgb(0, 0, 0) 2px 2px;
+  color: rgb(255, 255, 255);
+  font-family: "Architects Daughter", cursive;
+}
+.agil {
+  font-size: 20px;
+  padding-left: 7px;
+  margin-top: -10px;
+}
+
+.ul a {
+  font-size: 30px;
+  text-decoration: none;
+  display: block;
+  color: rgb(0, 0, 0);
+}
+.ul a:hover {
+  color: grey;
+}
+.bak {
+  background-color: grey;
+}
+body {
+  background: linear-gradient(grey, white, grey, grey);
+}
+.grid-container {
+  display: grid;
+  grid-template-columns: auto auto auto;
+  background-color: rgb(7, 7, 7);
+  padding: 10px;
+  border: 10px;
+}
+.grid-item {
+  background: linear-gradient(rgb(71, 68, 68), white, grey, grey);
+  border: 5px solid rgba(0, 0, 0, 0.8);
+  padding: 100px;
+  font-size: 30px;
+  text-align: center;
+  font-family: "Architects Daughter", cursive;
+}
+.button {
+  font-size: 30px;
+  padding: 20px;
+}
+.button2 {
+  width: 100%;
+  padding: 10px 20px;
+  box-sizing: border-box;
+  font-size: 25px;
+  resize: none;
+  padding-bottom: 300px;
+  text-align: top;
+  border-radius: 10px;
+}
+.blip {
+  border: 3px solid;
+  overflow: auto;
+  padding: 10px;
+  margin: 30px;
+  background: linear-gradient(grey, white, grey, grey);
+  box-shadow: 0 1px 30px rgb(255, 255, 255);
+  border-radius: 10px;
+}
+.grund {
+  border: 3px;
+  overflow: auto;
+  padding: 5px;
+  margin: 30px;
+  width: 100%;
+}
+.grund img {
+  border: black 3px solid;
+  border-radius: 50px;
+  margin: 10px;
+  box-shadow: rgb(0, 0, 0) 30px;
+  float: left;
+  width: 800px;
+}
+.button3 {
+  margin: 10px;
+  text-align: left;
+  padding: 10px;
+  font-size: 20px;
+  border: black 2px solid;
+}
+.kurser {
+  font-size: 30px;
+  margin: 20px;
+  margin-top: 50px;
+}
+.mainer img {
+  width: 20%;
+  float: right;
+  margin-right: 300px;
+  margin-top: 150px;
+}
+.yh {
+  margin-left: 10px;
+}
